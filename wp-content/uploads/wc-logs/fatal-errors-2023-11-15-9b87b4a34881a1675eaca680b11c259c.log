@@ -1,0 +1,8 @@
+2023-11-15T01:24:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\Shop\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-videopress\src\class-ajax.php on line 50
+
+2023-11-15T01:24:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\Shop\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-shipping-zone-locations-v2-controller.php on line 25
+
+2023-11-15T02:54:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\Shop\wp-includes\class-wpdb.php on line 2349
+
+2023-11-15T03:04:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\Shop\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-search\src\instant-search\class-instant-search.php on line 19
+

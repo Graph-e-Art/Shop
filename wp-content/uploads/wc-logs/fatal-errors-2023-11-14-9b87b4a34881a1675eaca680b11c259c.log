@@ -1,0 +1,10 @@
+2023-11-14T18:56:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\Shop\wp-content\plugins\mailpoet\vendor\composer\ClassLoader.php on line 196
+
+2023-11-14T23:10:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\Shop\wp-content\plugins\jetpack\extensions\blocks\business-hours\business-hours.php on line 28
+
+2023-11-14T23:11:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\Shop\wp-content\plugins\mailpoet\vendor-prefixed\doctrine\orm\lib\Doctrine\ORM\Query\SqlWalker.php on line 116
+
+2023-11-14T23:11:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\Shop\wp-content\plugins\google-listings-and-ads\vendor\google\apiclient-services\src\ShoppingContent\Resource\Orders.php on line 477
+
+2023-11-14T23:11:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\Shop\wp-content\plugins\woocommerce\src\Internal\Admin\Translations.php on line 27
+
